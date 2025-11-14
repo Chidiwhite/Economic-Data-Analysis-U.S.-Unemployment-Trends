@@ -1,0 +1,2 @@
+# Economic-Data-Analysis-U.S.-Unemployment-Trends
+A data-driven analysis of U.S. unemployment trends using the FRED API. Includes automated data extraction, cleaning, and time-series visualization with Python to highlight national and state-level economic patterns, including the impact of the April 2020 pandemic spike
